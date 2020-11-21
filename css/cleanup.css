@@ -16,8 +16,7 @@
   display:none;
 }
 
-div#wall div:nth-child(5) div.parent  div#tag-5.slick {
-  display:none;
+div#wall div.parent div:nth-child(5) div#tag-5.slick  display:none;
 }
 
 #wall.parent div #tag-6{
